@@ -119,4 +119,4 @@ Some of the other performance metrics on the Cloud Function (API) is attached be
 From the above snapshots, we can see that the performance counters like Memory, CPU utilization is pretty low when we were load testing it by sending the 200+ request in sequence with no delay. The response is served within less than a second or in few milliseconds making the API solution pretty feasible with the deployed ML model.
 
 3. **SpamBuster ML Model**
-<<To be updated..>>
+To be updated..
