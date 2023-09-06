@@ -1,0 +1,17 @@
+2023-03-16 20:09:37.084 [VSTA_Main] INFO  SpamBuster.ThisAddIn - Outlook and the SpamBuster Add in has started.
+2023-03-16 20:11:10.567 [VSTA_Main] INFO  SpamBuster.ThisAddIn - Outlook and the SpamBuster Add in has started.
+2023-03-16 20:12:01.656 [VSTA_Main] INFO  SpamBuster.ThisAddIn - Outlook and the SpamBuster Add in has started.
+2023-03-16 20:17:26.792 [VSTA_Main] INFO  SpamBuster.ThisAddIn - Outlook and the SpamBuster Add in has started.
+2023-03-16 20:22:13.844 [VSTA_Main] INFO  SpamBuster.ThisAddIn - Outlook and the SpamBuster Add in has started.
+2023-03-16 20:24:16.637 [VSTA_Main] INFO  SpamBuster.ThisAddIn - Outlook and the SpamBuster Add in has started.
+2023-03-16 20:24:33.945 [VSTA_Main] INFO  SpamBuster.ThisAddIn - Outlook and the SpamBuster Add in has started.
+2023-03-16 20:24:49.049 [VSTA_Main] INFO  SpamBuster.ThisAddIn - Outlook and the SpamBuster Add in has started.
+2023-03-16 20:25:38.261 [VSTA_Main] INFO  SpamBuster.ThisAddIn - Outlook and the SpamBuster Add in has started.
+2023-03-16 20:26:47.972 [VSTA_Main] INFO  SpamBuster.ThisAddIn - Outlook and the SpamBuster Add in has started.
+2023-03-16 20:28:40.696 [VSTA_Main] INFO  SpamBuster.ThisAddIn - Outlook and the SpamBuster Add in has started.
+2023-03-16 20:29:03.825 [VSTA_Main] ERROR SpamBuster.ThisAddIn - Clicked
+2023-03-16 20:30:28.864 [VSTA_Main] INFO  SpamBuster.ThisAddIn - Outlook and the SpamBuster Add in has started.
+2023-03-16 20:30:59.796 [VSTA_Main] ERROR SpamBuster.ThisAddIn - Clicked
+2023-03-16 20:31:20.603 [VSTA_Main] INFO  SpamBuster.ThisAddIn - Outlook and the SpamBuster Add in has started.
+2023-03-16 20:31:36.588 [VSTA_Main] ERROR SpamBuster.ThisAddIn - Clicked
+2023-03-16 20:52:38.871 [VSTA_Main] INFO  SpamBuster.ThisAddIn - Outlook and the SpamBuster Add in has started.
